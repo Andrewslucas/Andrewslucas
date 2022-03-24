@@ -4,5 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewslucas&layout=compact)](https://github.com/Andrewslucas/github-readme-stats)
 
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<\div>         
+  <img alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>         
