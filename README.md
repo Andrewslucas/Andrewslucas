@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewslucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### ** Estou aprendendo: **
+### **Estou aprendendo:**
 
 <div style="display: inline_block">
   <img alingn="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
